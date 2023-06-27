@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(203, 164, 239);
+    }
+    img{
+        height: 200px;
+        width: auto;
+    }
+    
+    .card-img{
+        border: 2px solid;
+        width: 600px;
+        margin: 70px;
+    
+    }
+    
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+        position: relative;
+    }
+    
+    .Bande-annonce{
+        position: absolute;
+        align-items: bottom;
+    }
+
+    
